@@ -1,0 +1,11 @@
+[package]
+name = "rboids"
+version = "0.1.0"
+authors = ["Albert Islamov <higashi166@gmail.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+three = "0.4.0"
+ncollide3d = "0.23.2"
